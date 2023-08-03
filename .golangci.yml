@@ -1,3 +1,4 @@
+merge.md
 linters:
   enable:
   - gofmt
